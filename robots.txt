@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace this placeholder with your live website URL before publishing.
+Sitemap: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
